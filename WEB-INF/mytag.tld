@@ -1,0 +1,18 @@
+<taglib>
+	<tlibversion>1.0</tlibversion>
+	<jspversion>2.3</jspversion>
+	<tag>
+		<name>ShowMessage</name>
+		<tag-class>buddies.ShowMessage</tag-class>
+		<attribute>
+			<name>frid</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+		<attribute>
+			<name>userid</name>
+			<required>true</required>
+			<rtexprvalue>true</rtexprvalue>
+		</attribute>
+	</tag>
+</taglib>
