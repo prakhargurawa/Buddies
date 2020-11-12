@@ -1,1 +1,1 @@
-# buddies
+# Buddies
